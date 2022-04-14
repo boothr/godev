@@ -1,4 +1,4 @@
-package Domain
+package domain
 
 type Resident struct {
 	Id           string `json:"id"`
