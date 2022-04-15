@@ -1,2 +1,2 @@
-github.com/boothr/godev/modules/domain/resident v0.0.0-20220415135602-cc447495816d h1:1GuoDyjNc9w1TDxRoIq0uTBmdceHXwGkTJoyFjmf9iI=
-github.com/boothr/godev/modules/domain/resident v0.0.0-20220415135602-cc447495816d/go.mod h1:W67yWP3oQfylc4hpIgmp5IPvuc+RsBW8PSCvvENNUXo=
+github.com/boothr/godev/modules/domain v0.0.0-20220415173646-a853dca4df57 h1:EOhGAJqVB/ytZFxhZmwx1zNudW/bQzEajgS0+iQrFsM=
+github.com/boothr/godev/modules/domain v0.0.0-20220415173646-a853dca4df57/go.mod h1:PsMhCltE3CRYG+HYTB+2qMS7xnAP9iKSccBBee48o7c=

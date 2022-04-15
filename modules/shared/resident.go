@@ -1,14 +1,18 @@
 package shared
 
-var residents = resident.AllResidents()
+import (
+	"github.com/boothr/godev/modules/domain"
+)
 
-func GetResidents() []resident.Resident {
+var residents = domain.AllResidents()
+
+func GetResidents() *[]domain.Resident {
 	return residents
 }
 
-func GetResidentById(id string) (result resident.Resident) {
+func GetResidentById(id string) (result domain.Resident) {
 	//return residents[]
-	for _, resident := range residents {
+	for _, resident := range *residents {
 		if resident.Id == id {
 			result = resident
 			break

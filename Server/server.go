@@ -1,15 +1,14 @@
 package main
 
 import (
-	endpoints "Server/Endpoints"
-
+	"github.com/boothr/godev/modules/endpoints"
 	"github.com/gin-gonic/gin"
 )
 
 func main() {
-	router := gin.Default()
-	router.GET("/residents", endpoints.ListResidents)
-	router.GET("/residents/:id", endpoints.GetResidentById)
+	router := gi.Default()
+	router.GET("/residents" endpoints.Get)
+	router.GET("/residents/:id", endpoints.GetById)
 
-	router.Run("localhost:8080")
+  router.Run("localhost:8080")
 }
