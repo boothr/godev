@@ -11,3 +11,7 @@ var Residents = []Resident{
 	{Id: "2", Address: "123 Fake St", ResidentName: "Tess Masters"},
 	{Id: "3", Address: "654 Fake St", ResidentName: "Chesterton Roads"},
 }
+
+func AllResidents() *[]Resident {
+	return &Residents
+}
