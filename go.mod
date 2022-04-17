@@ -1,9 +1,10 @@
-module github.com/boothr/godev/modules/endpoints
+module github.com/boothr/godev/residents
 
 go 1.18
 
 require (
-	github.com/boothr/godev/modules/shared v0.0.0-20220415173646-a853dca4df57
+	github.com/boothr/godev/modules/domain v0.0.0-20220415182243-f4fe62777ce9
+	github.com/boothr/godev/modules/shared v0.0.0-20220415182243-f4fe62777ce9
 	github.com/gin-gonic/gin v1.7.7
 )
 

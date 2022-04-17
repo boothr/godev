@@ -1,5 +1,7 @@
-github.com/boothr/godev/modules/shared v0.0.0-20220415173646-a853dca4df57 h1:lmeV3voiCNg0F042AqDfOpIQoxZ4qwc95ytsPw0Z1fo=
-github.com/boothr/godev/modules/shared v0.0.0-20220415173646-a853dca4df57/go.mod h1:kqV2Ei+Vd+zRezkTCF4Sv7GZwcqhRPBl8zEg4HHIJEw=
+github.com/boothr/godev/modules/domain v0.0.0-20220415182243-f4fe62777ce9 h1:qVkjxjdi4Bq6fua4fUFTKH9cETP3FL/VdGw4Sdrsw7o=
+github.com/boothr/godev/modules/domain v0.0.0-20220415182243-f4fe62777ce9/go.mod h1:PsMhCltE3CRYG+HYTB+2qMS7xnAP9iKSccBBee48o7c=
+github.com/boothr/godev/modules/shared v0.0.0-20220415182243-f4fe62777ce9 h1:VLwtsOQE7MVXUHrJdANgskYOjLEO5DF63+Cs+AOF0L0=
+github.com/boothr/godev/modules/shared v0.0.0-20220415182243-f4fe62777ce9/go.mod h1:ogSR7duMgPDufuk190I19CbFkktdGJf+xlLKfXIHRbY=
 github.com/davecgh/go-spew v1.1.0/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
 github.com/davecgh/go-spew v1.1.1 h1:vj9j/u1bqnvCEfJOwUhtlOARqs3+rkHYY13jYWTU97c=
 github.com/davecgh/go-spew v1.1.1/go.mod h1:J7Y8YcW2NihsgmVo/mv3lAwl/skON4iLHjSsI+c5H38=
